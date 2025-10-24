@@ -1,4 +1,4 @@
-# About Me Widget - Vite + React
+# Widgets-Assignment
 
 A responsive "About Me and Gallery" widget component built with React and Tailwind CSS.
 
@@ -46,3 +46,4 @@ The production-ready files will be in the `dist` folder.
 npm run preview
 ```
 
+#by -Vaidik Saxena
