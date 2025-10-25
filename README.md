@@ -7,13 +7,13 @@ A responsive "About Me and Gallery" widget component built with React and Tailwi
 - Node.js (version 16 or higher)
 - npm or yarn
 
-## Installation
+## How to install
 
-1. **Create a new Vite + React project:**
+1. **Create a Folder and in terminal:**
 
 ```bash
-npm create vite@latest my-about-me-widget -- --template react
-cd my-about-me-widget
+git clone <repo link>
+cd <reponame>
 ```
 
 2. **Install dependencies:**
